@@ -6,16 +6,6 @@
 - 📫  How to reach me: jedrzejlagodzinski(at)gmail.com
 - 🎷  Interesting fact about me: I play saxophone.
 
-## I work with:
-- Ruby, Ruby on Rails
-- JavaScript ES6, React
-- HTML, CSS, Bootstrap, Sass
-- SQL
-- git and GitHub
-- Heroku
-- API
-
-
 <h3 align="left">🛠 Languages and Tools 🛠</h3>
 
 <p align="left">
