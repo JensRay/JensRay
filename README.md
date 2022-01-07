@@ -1,10 +1,10 @@
 # Hello, I'm Jedrzej 
 - I'm a Full Stack Developer
-- 👷 Right now I’m building an e-commerce website in React 
-- 🙇‍ I'm currently learning React & Redux
-- 🧰  I’m looking for opportunities to work as a web developer
+<!-- - 👷 Right now I’m building an e-commerce website in React 
+- 🙇‍ I'm currently learning React & Redux -->
+- 🧰  I’m working with Ruby on Rails and React
 - 📫  How to reach me: jedrzejlagodzinski(at)gmail.com
-- 🎷  Interesting fact about me: I play saxophone.
+<!-- - 🎷  Interesting fact about me: I play saxophone. -->
 
 <h3 align="left">🛠 Languages and Tools 🛠</h3>
 
