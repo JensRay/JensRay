@@ -1,5 +1,5 @@
 # Hello, I'm Jedrzej 
-- I'm a Full Stack Developer
+- I'm a Web Developer
 <!-- - 👷 Right now I’m building an e-commerce website in React 
 - 🙇‍ I'm currently learning React & Redux -->
 - 🧰  I’m working with Ruby on Rails and React
