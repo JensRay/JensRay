@@ -2,7 +2,7 @@
 - I'm a Front End Developer
 <!-- - 👷 Right now I’m building an e-commerce website in React 
 - 🙇‍ I'm currently learning React & Redux -->
-- 🧰  I’m working with React
+- 🧰  I’m working with JavaScript, Next.js, React, TypeScript
 - 📫  How to reach me: jedrzejlagodzinski(at)gmail.com
 <!-- - 🎷  Interesting fact about me: I play saxophone. -->
 
