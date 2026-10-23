@@ -1,5 +1,5 @@
 # Hello, I'm Jedrzej 
-- I'm a Front End Developer
+- I'm a Front End Developer & UX Designer
 <!-- - 👷 Right now I’m building an e-commerce website in React 
 - 🙇‍ I'm currently learning React & Redux -->
 - 🧰  I’m working with JavaScript, Next.js, React, TypeScript
